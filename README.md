@@ -11,6 +11,10 @@ It allows multiple clients to connect to a server and exchange messages in real 
 
 The project serves as a minimal yet expandable base for experimenting with network communication, threading, and simple command parsing.
 
+<div align="center">
+  <img src="imgs/preview1.png" alt="Preview" width="90%">
+</div>
+
 ---
 
 ## 🧩 Features
